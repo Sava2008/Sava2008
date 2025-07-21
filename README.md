@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sava2008
 - 👀 I’m interested in chess, programming and learning languages
 - 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on my projects
+- 💞️ I’m looking forward to collaborating on my projects
 - 📫 How to reach me on discord: convinced9058
 - 😄 Pronouns: he, his, him
 - ⚡ Fun fact: stones are soft. they just contract when we touch them
