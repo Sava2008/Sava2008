@@ -7,9 +7,10 @@ complete snippets of code for myself.
 
 ## Tech Stack
 
-| -------- | :--------: |
-| [python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | numpy, pandas |
-| [rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | - |
+| technology | tools |
+| ---------------------- | :------------------: |
+| ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | numpy, pandas |
+| ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | - |
 | other | git, windows terminal, VS code, json |
 
 ## Projects
