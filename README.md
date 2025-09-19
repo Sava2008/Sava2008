@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Sava2008
-- 👀 I’m interested in chess, programming and learning languages
-- 🌱 I’m currently learning Python and Rust
-- 💞️ I’m looking forward to collaborating on my projects
-- 📫 How to reach me on discord: convinced9058
-- 😄 Pronouns: he, his, him
-- ⚡ Fun fact: stones are soft. they just strain their muscles when we touch them
+# Hello, my name is Sava
 
-<!---
-Sava2008/Sava2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a self-taught developer, who doesn't specialize in anything yet. I tried basic **GameDev**,
+**scripting**, **automation** and **desktop development**. I use ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) and ![https://www.pngaaa.com/detail/4520387](https://www.vhv.rs/dpng/d/575-5752615_crabs-clipart-std-logo-rust-programming-language-hd.png)
