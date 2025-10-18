@@ -37,5 +37,5 @@ My hobbies:
 
 My skills:
 - Russian native, English B2 with a pinch of C1, German A1: *I don't miss out on soft skills either* 
-- ~1450 rapid, ~1400 blitz, and ~2400 puzzles on chess.com: *Fancy a game?*
+- ~1500 rapid, ~1400 blitz, and ~2400 puzzles on chess.com: *Fancy a game?*
 - Mental arithmetics: *Keeping your mind sharp is necessary*
