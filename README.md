@@ -17,6 +17,7 @@ complete snippets of code for myself.
 
 The project I'm most thrilled about is [SavaCrush](https://github.com/Sava2008/Sava-Crush).
 Stuff relating my tech stack is pending 😴😴😴
+Currently working on my chess engine in rust called ![Ferrous](https://github.com/Sava2008/Ferrous/tree/bitboard_edition) (look it up in the bitboard_edition branch)
 
 ## My contacts
 Discuss your brilliant ideas with me:
@@ -31,11 +32,11 @@ I disapprove pinging
 ## Who I am outside of programming, fighting rust and python, and writing spaghetti code
 
 My hobbies:
-- Learning foreign languages
-- Watching anime
-- Playing chess
+- Learning foreign languages (AmEn🇺🇸 + German🇩🇪)
+- Watching anime (personal favorites: AOT, The Promised Neverland, Summertime Rendering)
+- Playing chess (favorite openings: Pirc defense the Czech defense, Scandinavian defense, Vienna gambit, Danish gambit, KID)
 
 My skills:
-- Russian native, English B2 with a pinch of C1, German A1: *I don't miss out on soft skills either* 
-- ~1500 rapid, ~1400 blitz, and ~2400 puzzles on chess.com: *Fancy a game?*
+- Russian native, English C1, German A2: *I don't miss out on soft skills either* 
+- ~1500 rapid, ~1400 blitz, and ~2400 puzzles on chess.com; ~1900 rapid, ~1700 blitz and ~2300 puzzles on lichess.org: *Fancy a game?*
 - Mental arithmetics: *Keeping your mind sharp is necessary*
