@@ -15,9 +15,10 @@ complete snippets of code for myself.
 
 ## Projects
 
-The project I'm most thrilled about is [SavaCrush](https://github.com/Sava2008/Sava-Crush).
+The project I'm most thrilled about is [SavaCrush](https://github.com/Sava2008/Sava-Crush)
 Stuff relating my tech stack is pending 😴😴😴
-Currently working on my chess engine in rust called ![Ferrous](https://github.com/Sava2008/Ferrous/tree/bitboard_edition) (look it up in the bitboard_edition branch)
+Currently working on my chess engine in rust called ![Ferrous](https://github.com/Sava2008/Ferrous)
+Planning on making a QR code generator from scratch
 
 ## My contacts
 Discuss your brilliant ideas with me:
