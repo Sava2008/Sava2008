@@ -34,10 +34,10 @@ I disapprove pinging
 
 My hobbies:
 - Learning foreign languages (AmEn🇺🇸 + German🇩🇪)
-- Watching anime (personal favorites: AOT, The Promised Neverland, Summertime Rendering)
-- Playing chess (favorite openings: Pirc defense the Czech defense, Scandinavian defense, Vienna gambit, Danish gambit, KID)
+- Watching anime (personal favorites: AOT, The Promised Neverland, Summertime Rendering, Shiki)
+- Playing chess (favorite openings: Pirc defense the Czech defense, Vienna gambit, Danish gambit, KID)
 
 My skills:
 - Russian native, English C1, German A2: *I don't miss out on soft skills either* 
-- ~1600 rapid, ~1400 blitz, and ~2400 puzzles on chess.com; ~1950 rapid, ~1700 blitz and ~2300 puzzles on lichess.org: *Fancy a game?*
+- ~1600 rapid, ~1400 blitz, and ~2400 puzzles on chess.com; ~2100 rapid, ~1950 blitz and ~2500 puzzles on lichess.org: *Fancy a game?*
 - Mental arithmetics: *Keeping your mind sharp is necessary*
