@@ -25,6 +25,7 @@ Discuss your brilliant ideas with me:
 | ---------- | ---------------- | ---------- |
 | **Discord** | convinced9058 | 1-2 days |
 | **Telegram** | @Sawwwwwwwwwa | 1 day |
+| **Gmail** | sava2008.programming@gmail.com | 2-3 days |
 
 I disapprove pinging
 
